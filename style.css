@@ -70,12 +70,12 @@ body {
 	color: #ffffff;
 }
 
-.card__form-name {
+.card__form-sm {
 	display: inline-block;
 	width: 48%;
 }
 
-.card__form-name--left {
+.card__form-sm--left {
 	margin-right: 15px;
 }
 
