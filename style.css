@@ -68,15 +68,15 @@ body {
 	font-size: 18px;
 	font-weight: bold; 
 	color: #ffffff;
-}
+} 
 
 .card__form-sm {
 	display: inline-block;
-	width: 48%;
+	width: 50%;
 }
 
 .card__form-sm--left {
-	margin-right: 15px;
+	margin-right: 20px;
 }
 
 .card__form-email,
